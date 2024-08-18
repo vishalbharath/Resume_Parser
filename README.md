@@ -1,4 +1,4 @@
-# Resume Parser App (Gen AI + Flask)
+# Resume Parser App 
 
 ### Objective
 
