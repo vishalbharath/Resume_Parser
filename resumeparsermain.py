@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="YOUR_API_KEY"
 )
 
 def parserfn(message):
